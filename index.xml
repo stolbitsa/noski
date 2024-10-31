@@ -2,7 +2,7 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>noski</repo>
-  <version>v1.0.3</version>
+  <version>v1.0.4</version>
   <next number="1" owner="stolbitsa" repo="inca-roads-1"/>
   <readme>
     <ru>5b88823302430ccb531a46855830113fc7e9ef3ed3a9060a2b9be30ff9e0f676</ru>
@@ -94,14 +94,14 @@
     <bpm>140</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>5</tonalities>
-    <video name="14-noski-1.mp4" size="1981965" type="video/mp4" volume="0.371">fcfb42b40546efb2cc94338613ae38e5de6b7328ab765db2e9713ad05e10388d</video>
+    <video name="14-noski-6.mp4" size="1556584" type="video/mp4" volume="0.331">3bf81b96bdd63d9cf2a4515e5a378c3c9ea3f7d8288d6c65ea6b858b20ed951c</video>
     <notes>
-      <note number="1" values="4" ticks="255" durationTicks="47" ppq="96" velocity="0.409"/>
-      <note number="2" values="5" ticks="303" durationTicks="45" ppq="96" velocity="0.434"/>
-      <note number="3" values="5" ticks="350" durationTicks="46" ppq="96" velocity="0.491"/>
-      <note number="4" values="3" ticks="398" durationTicks="47" ppq="96" velocity="0.491"/>
-      <note number="5" values="3" ticks="446" durationTicks="46" ppq="96" velocity="0.491"/>
-      <note number="6" values="1" ticks="495" durationTicks="95" ppq="96" velocity="0.491"/>
+      <note number="1" values="4" ticks="102" durationTicks="24" ppq="96" velocity="0.402"/>
+      <note number="2" values="4" ticks="150" durationTicks="22" ppq="96" velocity="0.433"/>
+      <note number="3" values="4" ticks="197" durationTicks="73" ppq="96" velocity="0.488"/>
+      <note number="4" values="4" ticks="294" durationTicks="23" ppq="96" velocity="0.488"/>
+      <note number="5" values="4" ticks="341" durationTicks="25" ppq="96" velocity="0.488"/>
+      <note number="6" values="4" ticks="390" durationTicks="95" ppq="96" velocity="0.488"/>
     </notes>
   </exercise>
   <exercise number="7">
@@ -109,14 +109,17 @@
     <bpm>140</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>5</tonalities>
-    <video name="14-noski-1.mp4" size="1981965" type="video/mp4" volume="0.371">fcfb42b40546efb2cc94338613ae38e5de6b7328ab765db2e9713ad05e10388d</video>
+    <video name="14-noski-7.mp4" size="1927021" type="video/mp4" volume="0.305">92d423d3978ce457b0c511b90b7af1f90faa954e5568e8111d7e0bb47dde8f3f</video>
     <notes>
-      <note number="1" values="4" ticks="255" durationTicks="47" ppq="96" velocity="0.409"/>
-      <note number="2" values="5" ticks="303" durationTicks="45" ppq="96" velocity="0.434"/>
-      <note number="3" values="5" ticks="350" durationTicks="46" ppq="96" velocity="0.491"/>
-      <note number="4" values="3" ticks="398" durationTicks="47" ppq="96" velocity="0.491"/>
-      <note number="5" values="3" ticks="446" durationTicks="46" ppq="96" velocity="0.491"/>
-      <note number="6" values="1" ticks="495" durationTicks="95" ppq="96" velocity="0.491"/>
+      <note number="1" values="3" ticks="134" durationTicks="24" ppq="96" velocity="0.402"/>
+      <note number="2" values="3" ticks="182" durationTicks="24" ppq="96" velocity="0.433"/>
+      <note number="3" values="3" ticks="229" durationTicks="27" ppq="96" velocity="0.488"/>
+      <note number="4" values="3" ticks="277" durationTicks="26" ppq="96" velocity="0.488"/>
+      <note number="5" values="3" ticks="325" durationTicks="26" ppq="96" velocity="0.488"/>
+      <note number="6" values="3" ticks="374" durationTicks="25" ppq="96" velocity="0.488"/>
+      <note number="7" values="3" ticks="422" durationTicks="23" ppq="96" velocity="0.488"/>
+      <note number="8" values="3" ticks="470" durationTicks="46" ppq="96" velocity="0.488"/>
+      <note number="9" values="1" ticks="519" durationTicks="95" ppq="96" velocity="0.488"/>
     </notes>
   </exercise>
 </level>
