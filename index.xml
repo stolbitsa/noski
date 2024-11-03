@@ -2,11 +2,11 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>noski</repo>
-  <version>v1.0.5</version>
+  <version>v1.0.6</version>
   <next number="1" owner="stolbitsa" repo="inca-roads-1"/>
   <readme>
-    <ru>5b88823302430ccb531a46855830113fc7e9ef3ed3a9060a2b9be30ff9e0f676</ru>
-    <en>36f8e0344ac6f37f67c8377cf46b511558374583a7f398ae04cf44402c7e02ae</en>
+    <ru>96437e45e755f7b3841b3e4dade26d8f163b04b28410b906a463f30cbb299c50</ru>
+    <en>2f76113aff1abef6ff91d5c997262dccefbb2dc3d44d15b866d7efd45f2633cb</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
